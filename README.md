@@ -1,3 +1,6 @@
+
+
+
 # AI Code Review Tool 🛠️
 
 An AI-powered collaborative code review tool that combines static code analysis, generative AI explanations, and real-time collaboration — built entirely on a free tech stack.
@@ -11,11 +14,14 @@ Users write or paste Java code into a live editor, run instant static analysis t
 -  **Live Code Editor** — Monaco Editor (the engine behind VS Code)
 -  **100% Free Stack** — No paid services required
 
+https://github.com/user-attachments/assets/24eda743-373e-49ee-882f-6ea67181b99f
+
 ## Tech Stack
 
 **Backend:** Java, Spring Boot, Spring WebSocket (STOMP), PMD  
 **Frontend:** React, Vite, Monaco Editor, SockJS + StompJS  
 **AI:** Google Gemini API (free tier)
+
 
 ## Architecture
 
